@@ -70,7 +70,7 @@ The traffic steering decision is formulated as a Markov Decision Process (MDP):
 │   └── System model.pdf
 └── requirements.txt
 ```
-![A comprehensive workflow for intelligent TS deployment using ML application in Open RAN architecture.](Figures/System model)
+![A comprehensive workflow for intelligent TS deployment using ML application in Open RAN architecture.](figures/Architecture)
 ## Reference: 
 If you use this code in your research, please cite:
 ```
