@@ -70,7 +70,10 @@ The traffic steering decision is formulated as a Markov Decision Process (MDP):
 │   └── System model.pdf
 └── requirements.txt
 ```
+Below you can see the system architecture and some parts of the designed DRL and LSTM models:
 ![A comprehensive workflow for intelligent TS deployment using ML application in Open RAN architecture.](figures/Architecture.jpg)
+![The converge behavior of Algorithm 2 in different frequency-time grid numerologies: (a) mied numerology in the frequency domain, (b) mixed numerology in the time domain, and (c) fixed numerology.](figures/DRL-result.jpg)
+![The actual and predicted traffic demands via LSTM model for both eMBB and uRLLC services per frame.](figures/LSTM-result.jpg)
 ## Reference: 
 If you use this code in your research, please cite:
 ```
